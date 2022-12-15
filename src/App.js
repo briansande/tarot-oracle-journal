@@ -1,13 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
-import Card from './components/Card';
+import CardReading from './pages/CardReading';
 
 
 function App() {
   return (
     <div className="App">
 
-      <Card />
+      <CardReading />
     </div>
   );
 }
