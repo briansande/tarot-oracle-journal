@@ -1,264 +1,269 @@
 {
-    "Cards": [
-        {
-            "value": 2,
-            "suit": "clubs",
-            "img": "/assets/images/2_of_clubs.png"
-        },
-        {
-            "value": 3,
-            "suit": "clubs",
-            "img": "/assets/images/3_of_clubs.png"
-        },
-        {
-            "value": 4,
-            "suit": "clubs",
-            "img": "/assets/images/4_of_clubs.png"
-        },
-        {
-            "value": 5,
-            "suit": "clubs",
-            "img": "/assets/images/5_of_clubs.png"
-        },
-        {
-            "value": 6,
-            "suit": "clubs",
-            "img": "/assets/images/6_of_clubs.png"
-        },
-        {
-            "value": 7,
-            "suit": "clubs",
-            "img": "/assets/images/7_of_clubs.png"
-        },
-        {
-            "value": 8,
-            "suit": "clubs",
-            "img": "/assets/images/8_of_clubs.png"
-        },
-        {
-            "value": 9,
-            "suit": "clubs",
-            "img": "/assets/images/9_of_clubs.png"
-        },
-        {
-            "value": 10,
-            "suit": "clubs",
-            "img": "/assets/images/10_of_clubs.png"
-        },
-        {
-            "value": 11,
-            "suit": "clubs",
-            "img": "/assets/images/jack_of_clubs.png"
-        },
-        {
-            "value": 12,
-            "suit": "clubs",
-            "img": "/assets/images/queen_of_clubs.png"
-        },
-        {
-            "value": 13,
-            "suit": "clubs",
-            "img": "/assets/images/king_of_clubs.png"
-        },
-        {
-            "value": 14,
-            "suit": "clubs",
-            "img": "/assets/images/ace_of_clubs.png"
-        },
-        {
-            "value": 2,
-            "suit": "diamonds",
-            "img": "/assets/images/2_of_diamonds.png"
-        },
-        {
-            "value": 3,
-            "suit": "diamonds",
-            "img": "/assets/images/3_of_diamonds.png"
-        },
-        {
-            "value": 4,
-            "suit": "diamonds",
-            "img": "/assets/images/4_of_diamonds.png"
-        },
-        {
-            "value": 5,
-            "suit": "diamonds",
-            "img": "/assets/images/5_of_diamonds.png"
-        },
-        {
-            "value": 6,
-            "suit": "diamonds",
-            "img": "/assets/images/6_of_diamonds.png"
-        },
-        {
-            "value": 7,
-            "suit": "diamonds",
-            "img": "/assets/images/7_of_diamonds.png"
-        },
-        {
-            "value": 8,
-            "suit": "diamonds",
-            "img": "/assets/images/8_of_diamonds.png"
-        },
-        {
-            "value": 9,
-            "suit": "diamonds",
-            "img": "/assets/images/9_of_diamonds.png"
-        },
-        {
-            "value": 10,
-            "suit": "diamonds",
-            "img": "/assets/images/10_of_diamonds.png"
-        },
-        {
-            "value": 11,
-            "suit": "diamonds",
-            "img": "/assets/images/jack_of_diamonds.png"
-        },
-        {
-            "value": 12,
-            "suit": "diamonds",
-            "img": "/assets/images/queen_of_diamonds.png"
-        },
-        {
-            "value": 13,
-            "suit": "diamonds",
-            "img": "/assets/images/king_of_diamonds.png"
-        },
-        {
-            "value": 14,
-            "suit": "diamonds",
-            "img": "/assets/images/ace_of_diamonds.png"
-        },
-        {
-            "value": 2,
-            "suit": "hearts",
-            "img": "/assets/images/2_of_hearts.png"
-        },
-        {
-            "value": 3,
-            "suit": "hearts",
-            "img": "/assets/images/3_of_hearts.png"
-        },
-        {
-            "value": 4,
-            "suit": "hearts",
-            "img": "/assets/images/4_of_hearts.png"
-        },
-        {
-            "value": 5,
-            "suit": "hearts",
-            "img": "/assets/images/5_of_hearts.png"
-        },
-        {
-            "value": 6,
-            "suit": "hearts",
-            "img": "/assets/images/6_of_hearts.png"
-        },
-        {
-            "value": 7,
-            "suit": "hearts",
-            "img": "/assets/images/7_of_hearts.png"
-        },
-        {
-            "value": 8,
-            "suit": "hearts",
-            "img": "/assets/images/8_of_hearts.png"
-        },
-        {
-            "value": 9,
-            "suit": "hearts",
-            "img": "/assets/images/9_of_hearts.png"
-        },
-        {
-            "value": 10,
-            "suit": "hearts",
-            "img": "/assets/images/10_of_hearts.png"
-        },
-        {
-            "value": 11,
-            "suit": "hearts",
-            "img": "/assets/images/jack_of_hearts.png"
-        },
-        {
-            "value": 12,
-            "suit": "hearts",
-            "img": "/assets/images/queen_of_hearts.png"
-        },
-        {
-            "value": 13,
-            "suit": "hearts",
-            "img": "/assets/images/king_of_hearts.png"
-        },
-        {
-            "value": 14,
-            "suit": "hearts",
-            "img": "/assets/images/ace_of_hearts.png"
-        },
-        {
-            "value": 2,
-            "suit": "spades",
-            "img": "/assets/images/2_of_spades.png"
-        },
-        {
-            "value": 3,
-            "suit": "spades",
-            "img": "/assets/images/3_of_spades.png"
-        },
-        {
-            "value": 4,
-            "suit": "spades",
-            "img": "/assets/images/4_of_spades.png"
-        },
-        {
-            "value": 5,
-            "suit": "spades",
-            "img": "/assets/images/5_of_spades.png"
-        },
-        {
-            "value": 6,
-            "suit": "spades",
-            "img": "/assets/images/6_of_spades.png"
-        },
-        {
-            "value": 7,
-            "suit": "spades",
-            "img": "/assets/images/7_of_spades.png"
-        },
-        {
-            "value": 8,
-            "suit": "spades",
-            "img": "/assets/images/8_of_spades.png"
-        },
-        {
-            "value": 9,
-            "suit": "spades",
-            "img": "/assets/images/9_of_spades.png"
-        },
-        {
-            "value": 10,
-            "suit": "spades",
-            "img": "/assets/images/10_of_spades.png"
-        },
-        {
-            "value": 11,
-            "suit": "spades",
-            "img": "/assets/images/jack_of_spades.png"
-        },
-        {
-            "value": 12,
-            "suit": "spades",
-            "img": "/assets/images/queen_of_spades.png"
-        },
-        {
-            "value": 13,
-            "suit": "spades",
-            "img": "/assets/images/king_of_spades.png"
-        },
-        {
-            "value": 14,
-            "suit": "spades",
-            "img": "/assets/images/ace_of_spades.png"
+    "PlayingCards": {
+        "Cards": [
+            {
+                "value": 2,
+                "suit": "clubs",
+                "img": "/assets/images/2_of_clubs.png"
+            },
+            {
+                "value": 3,
+                "suit": "clubs",
+                "img": "/assets/images/3_of_clubs.png"
+            },
+            {
+                "value": 4,
+                "suit": "clubs",
+                "img": "/assets/images/4_of_clubs.png"
+            },
+            {
+                "value": 5,
+                "suit": "clubs",
+                "img": "/assets/images/5_of_clubs.png"
+            },
+            {
+                "value": 6,
+                "suit": "clubs",
+                "img": "/assets/images/6_of_clubs.png"
+            },
+            {
+                "value": 7,
+                "suit": "clubs",
+                "img": "/assets/images/7_of_clubs.png"
+            },
+            {
+                "value": 8,
+                "suit": "clubs",
+                "img": "/assets/images/8_of_clubs.png"
+            },
+            {
+                "value": 9,
+                "suit": "clubs",
+                "img": "/assets/images/9_of_clubs.png"
+            },
+            {
+                "value": 10,
+                "suit": "clubs",
+                "img": "/assets/images/10_of_clubs.png"
+            },
+            {
+                "value": 11,
+                "suit": "clubs",
+                "img": "/assets/images/jack_of_clubs.png"
+            },
+            {
+                "value": 12,
+                "suit": "clubs",
+                "img": "/assets/images/queen_of_clubs.png"
+            },
+            {
+                "value": 13,
+                "suit": "clubs",
+                "img": "/assets/images/king_of_clubs.png"
+            },
+            {
+                "value": 14,
+                "suit": "clubs",
+                "img": "/assets/images/ace_of_clubs.png"
+            },
+            {
+                "value": 2,
+                "suit": "diamonds",
+                "img": "/assets/images/2_of_diamonds.png"
+            },
+            {
+                "value": 3,
+                "suit": "diamonds",
+                "img": "/assets/images/3_of_diamonds.png"
+            },
+            {
+                "value": 4,
+                "suit": "diamonds",
+                "img": "/assets/images/4_of_diamonds.png"
+            },
+            {
+                "value": 5,
+                "suit": "diamonds",
+                "img": "/assets/images/5_of_diamonds.png"
+            },
+            {
+                "value": 6,
+                "suit": "diamonds",
+                "img": "/assets/images/6_of_diamonds.png"
+            },
+            {
+                "value": 7,
+                "suit": "diamonds",
+                "img": "/assets/images/7_of_diamonds.png"
+            },
+            {
+                "value": 8,
+                "suit": "diamonds",
+                "img": "/assets/images/8_of_diamonds.png"
+            },
+            {
+                "value": 9,
+                "suit": "diamonds",
+                "img": "/assets/images/9_of_diamonds.png"
+            },
+            {
+                "value": 10,
+                "suit": "diamonds",
+                "img": "/assets/images/10_of_diamonds.png"
+            },
+            {
+                "value": 11,
+                "suit": "diamonds",
+                "img": "/assets/images/jack_of_diamonds.png"
+            },
+            {
+                "value": 12,
+                "suit": "diamonds",
+                "img": "/assets/images/queen_of_diamonds.png"
+            },
+            {
+                "value": 13,
+                "suit": "diamonds",
+                "img": "/assets/images/king_of_diamonds.png"
+            },
+            {
+                "value": 14,
+                "suit": "diamonds",
+                "img": "/assets/images/ace_of_diamonds.png"
+            },
+            {
+                "value": 2,
+                "suit": "hearts",
+                "img": "/assets/images/2_of_hearts.png"
+            },
+            {
+                "value": 3,
+                "suit": "hearts",
+                "img": "/assets/images/3_of_hearts.png"
+            },
+            {
+                "value": 4,
+                "suit": "hearts",
+                "img": "/assets/images/4_of_hearts.png"
+            },
+            {
+                "value": 5,
+                "suit": "hearts",
+                "img": "/assets/images/5_of_hearts.png"
+            },
+            {
+                "value": 6,
+                "suit": "hearts",
+                "img": "/assets/images/6_of_hearts.png"
+            },
+            {
+                "value": 7,
+                "suit": "hearts",
+                "img": "/assets/images/7_of_hearts.png"
+            },
+            {
+                "value": 8,
+                "suit": "hearts",
+                "img": "/assets/images/8_of_hearts.png"
+            },
+            {
+                "value": 9,
+                "suit": "hearts",
+                "img": "/assets/images/9_of_hearts.png"
+            },
+            {
+                "value": 10,
+                "suit": "hearts",
+                "img": "/assets/images/10_of_hearts.png"
+            },
+            {
+                "value": 11,
+                "suit": "hearts",
+                "img": "/assets/images/jack_of_hearts.png"
+            },
+            {
+                "value": 12,
+                "suit": "hearts",
+                "img": "/assets/images/queen_of_hearts.png"
+            },
+            {
+                "value": 13,
+                "suit": "hearts",
+                "img": "/assets/images/king_of_hearts.png"
+            },
+            {
+                "value": 14,
+                "suit": "hearts",
+                "img": "/assets/images/ace_of_hearts.png"
+            },
+            {
+                "value": 2,
+                "suit": "spades",
+                "img": "/assets/images/2_of_spades.png"
+            },
+            {
+                "value": 3,
+                "suit": "spades",
+                "img": "/assets/images/3_of_spades.png"
+            },
+            {
+                "value": 4,
+                "suit": "spades",
+                "img": "/assets/images/4_of_spades.png"
+            },
+            {
+                "value": 5,
+                "suit": "spades",
+                "img": "/assets/images/5_of_spades.png"
+            },
+            {
+                "value": 6,
+                "suit": "spades",
+                "img": "/assets/images/6_of_spades.png"
+            },
+            {
+                "value": 7,
+                "suit": "spades",
+                "img": "/assets/images/7_of_spades.png"
+            },
+            {
+                "value": 8,
+                "suit": "spades",
+                "img": "/assets/images/8_of_spades.png"
+            },
+            {
+                "value": 9,
+                "suit": "spades",
+                "img": "/assets/images/9_of_spades.png"
+            },
+            {
+                "value": 10,
+                "suit": "spades",
+                "img": "/assets/images/10_of_spades.png"
+            },
+            {
+                "value": 11,
+                "suit": "spades",
+                "img": "/assets/images/jack_of_spades.png"
+            },
+            {
+                "value": 12,
+                "suit": "spades",
+                "img": "/assets/images/queen_of_spades.png"
+            },
+            {
+                "value": 13,
+                "suit": "spades",
+                "img": "/assets/images/king_of_spades.png"
+            },
+            {
+                "value": 14,
+                "suit": "spades",
+                "img": "/assets/images/ace_of_spades.png"
+            }
+        ],
+        "Back": {
+            "img": "/assets/images/back_red.png"
         }
-    ]
+    }
 }

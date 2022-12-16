@@ -1,13 +1,15 @@
 import React, { useState } from 'react';
 import PickCard from '../components/PickCard';
 import GetNCards from '../components/GetNCards';
+import CardContainer from '../components/CardContainer';
 
 
 
 
 
 function CardReading() {
-    const [numCards, setNumCards] = useState(1);
+    const [numCards, setNumCards] = useState(0);
+    // React.useEffect(() => { setNumCards(numCards) }, [numCards])
 
     return (
         <div>
@@ -23,8 +25,9 @@ function CardReading() {
             <div>
                 {/* show numCards Card components */}
                 {/* <PickCard /> */}
-                <GetNCards n={numCards} />
+                <CardContainer n={numCards} />
 
+                <button onClick={() => setNumCards(0)}>Reset</button>
 
 
 
